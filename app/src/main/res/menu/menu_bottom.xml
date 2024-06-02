@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/android_house"/>
+
+    <!--    <item-->
+    <!--        android:id="@+id/search"-->
+    <!--        android:title="Search"-->
+    <!--        android:icon="@drawable/search_interface_symbol"/>-->
+
+    <item
+        android:id="@+id/category"
+        android:title="Category"
+        android:icon="@drawable/android_category"
+        ></item>
+
+    <item
+        android:id="@+id/appointment"
+        android:title="Appointment"
+        android:icon="@drawable/icon_calendar"/>
+
+    <!--    <item-->
+    <!--        android:id="@+id/User"-->
+    <!--        android:title="User"-->
+    <!--        android:icon="@drawable/user"/>-->
+
+
+
+
+
+</menu>

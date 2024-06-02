@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390596734400",
+    "project_id": "apoinnt-f30ff",
+    "storage_bucket": "apoinnt-f30ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390596734400:android:33e63b7616215d39bb6c25",
+        "android_client_info": {
+          "package_name": "com.vaish.apoinnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLBYYbXEgLVh3ZcGwPSZWTm8t_5pmXoaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

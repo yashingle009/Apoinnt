@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/user_profile"
+        android:icon="@drawable/icon_user"
+        android:title="user"
+        app:showAsAction="always"
+        ></item>
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/icon_settings"
+        android:title="Settings"
+        app:showAsAction="never">
+
+    </item>
+
+
+
+
+    <item
+        android:id="@+id/Logout"
+        android:icon="@drawable/icon_logout"
+        android:title="logout"
+        app:showAsAction="never">
+
+    </item>
+
+
+</menu>
